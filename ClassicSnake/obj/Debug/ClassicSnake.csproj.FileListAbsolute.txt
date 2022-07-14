@@ -1,0 +1,11 @@
+C:\Users\jstoner\source\repos\ClassicSnake\ClassicSnake\bin\Debug\ClassicSnake.exe.config
+C:\Users\jstoner\source\repos\ClassicSnake\ClassicSnake\bin\Debug\ClassicSnake.exe
+C:\Users\jstoner\source\repos\ClassicSnake\ClassicSnake\bin\Debug\ClassicSnake.pdb
+C:\Users\jstoner\source\repos\ClassicSnake\ClassicSnake\obj\Debug\ClassicSnake.csproj.AssemblyReference.cache
+C:\Users\jstoner\source\repos\ClassicSnake\ClassicSnake\obj\Debug\ClassicSnake.csproj.SuggestedBindingRedirects.cache
+C:\Users\jstoner\source\repos\ClassicSnake\ClassicSnake\obj\Debug\ClassicSnake.Form1.resources
+C:\Users\jstoner\source\repos\ClassicSnake\ClassicSnake\obj\Debug\ClassicSnake.Properties.Resources.resources
+C:\Users\jstoner\source\repos\ClassicSnake\ClassicSnake\obj\Debug\ClassicSnake.csproj.GenerateResource.cache
+C:\Users\jstoner\source\repos\ClassicSnake\ClassicSnake\obj\Debug\ClassicSnake.csproj.CoreCompileInputs.cache
+C:\Users\jstoner\source\repos\ClassicSnake\ClassicSnake\obj\Debug\ClassicSnake.exe
+C:\Users\jstoner\source\repos\ClassicSnake\ClassicSnake\obj\Debug\ClassicSnake.pdb
